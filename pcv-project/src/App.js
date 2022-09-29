@@ -6,7 +6,7 @@ function App() {
       <header className="App-header">
         {/* <img src={logo} className="App-logo" alt="logo" /> */}
         <h1>
-          Página Web Placivel!
+          Página Web PCV!
         </h1>
         <h4>
           By: Ghers Fisman
